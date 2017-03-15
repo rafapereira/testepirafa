@@ -1,1 +1,7 @@
-HELLO WORLD!
+<htnl>
+<pre>
+<?php
+var_dump($_SERVER);
+?>
+</pre>
+</html>
